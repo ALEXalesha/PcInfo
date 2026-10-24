@@ -4,6 +4,10 @@
 their speed, disks with SMART, motherboard, monitors and Windows; temperatures and load as live charts with an
 overheat warning; USB devices and open network ports with the program that holds each one.
 
+[![Status](https://img.shields.io/badge/status-planned-lightgrey)](#) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![WPF](https://img.shields.io/badge/.NET_WPF-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/desktop/wpf/) [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+
+Code, tests and docs are written by Claude (Anthropic) in Claude Code. Ideas, testing and decisions - Alexey.
+
 [Русская версия](README.ru.md)
 
 ## Status

@@ -4,6 +4,10 @@
 частота, диски со SMART, материнская плата, мониторы и Windows; температуры и нагрузка живыми графиками с
 предупреждением о перегреве; USB-устройства и открытые сетевые порты с программой, которая держит каждый.
 
+[![Status](https://img.shields.io/badge/status-planned-lightgrey)](#) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![WPF](https://img.shields.io/badge/.NET_WPF-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/desktop/wpf/) [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+
+Код, тесты и документация этого проекта написаны Claude (Anthropic) в Claude Code. Идеи, проверка и решения - Алексей.
+
 [English version](README.md)
 
 ## Состояние
